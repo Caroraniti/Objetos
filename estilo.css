@@ -1,4 +1,10 @@
-.nombre {
+#nombre {
     background-color: blueviolet;
     color: crimson;
+}
+
+.parrafo {
+    border-radius: 3px;
+    background-color: darkgrey;
+    color: pink
 }
