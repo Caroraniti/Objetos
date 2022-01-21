@@ -1,10 +1,12 @@
 #nombre {
     background-color: blueviolet;
-    color: crimson;
+    color: green;
 }
 
 .parrafo {
     border-radius: 3px;
     background-color: darkgrey;
-    color: pink
+    color: pink;
+    margin-top: 10px;
+
 }
